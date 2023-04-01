@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "45p6AVmBXSYmKve72R9KUz4YJk2KwBifRTVolzY5fSNaUDvzjBXCwV195knNpqeRFm/6sRLAuixO8jLQWPO48w==",
+  "success": true,
+  "projectFilePath": "/Users/rachelpeterson/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/rachelpeterson/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/awssdk.core/3.7.106.10/awssdk.core.3.7.106.10.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/awssdk.s3/3.7.103.40/awssdk.s3.3.7.103.40.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.15/microsoft.netcore.app.crossgen2.osx-arm64.6.0.15.nupkg.sha512",
+    "/Users/rachelpeterson/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
